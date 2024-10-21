@@ -7,5 +7,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "clase-ii---render-20241016t192229z-001": "file:"
+  }
 }
